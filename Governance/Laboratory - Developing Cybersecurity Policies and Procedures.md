@@ -82,41 +82,10 @@ b.  Com base em sua pesquisa, liste as cinco principais descobertas de auditoria
 
 c.  Registre sua classificação em uma tabela de classificação de vulnerabilidades, como a mostrada abaixo. Ele lista as vulnerabilidades, a política recomendada para atenuar essa vulnerabilidade e sua justificativa para a classificação que você determinou.
 
-Tabela de classificação de vulnerabilidades	
-Vulnerabilidade
-Política recomendada
-Justificativa
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Área de Resposta
-Digite sua resposta aqui.
-Mostrar resposta
+Modelo de resposta:
+
+<img width="804" height="271" alt="image" src="https://github.com/user-attachments/assets/e6d07aab-94e4-4673-83a4-d2fed6489265" />
+
 
 Parte 3: Desenvolver documentos de políticas
 
@@ -142,7 +111,7 @@ b.    Inclua tarefas e eventos específicos que os serviços de saúde da ACME u
 
 c.    Inclua todos os departamentos específicos que precisam ser envolvidos. Os serviços de saúde da ACME também devem ser capazes de avaliar se os indivíduos têm o conhecimento adequado das políticas que dizem respeito a suas responsabilidades profissionais.
 
-Conclusão
+<h1>Conclusão<h1>
 
 As políticas de segurança da informação fornecem uma estrutura de como uma empresa protege seus ativos e são uma proteção que a empresa utiliza para reduzir riscos. Este projeto examinou por que uma empresa desenvolve políticas de segurança da informação e as diferenças entre políticas, padrões, diretrizes e procedimentos de segurança da informação. Este projeto também explorou como uma empresa divulga e avalia políticas de segurança da informação.
 
